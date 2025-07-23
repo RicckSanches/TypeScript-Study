@@ -13,3 +13,10 @@ function summer(arr: number[]):number {
 
     return res;
 }
+
+//----------------------------------------------
+let elem : number = 0;
+
+function func(text: string):void {
+    console.log(elem);
+}
